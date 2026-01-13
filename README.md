@@ -254,7 +254,7 @@ O projeto está configurado para testar o ambiente de produção:
 
 ---
 
-## 📌 Observações Importantes
+## Autor
 
 Pollyana Cássia de Sousa
 Graduanda – Faculdade Unyleya
